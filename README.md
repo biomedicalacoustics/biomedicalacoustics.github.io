@@ -1,4 +1,6 @@
-# Website for the Biomedical Acoustics Technical Committee  
+# Website for the Biomedical Acoustics Technical Committee 
+
+The website is hosted using GitHub pages: [https://biomedicalacoustics.github.io/](https://biomedicalacoustics.github.io/)
 
 ## Responsibilities
 - Keep site up to date with meeting notes, competition results, and awards  
